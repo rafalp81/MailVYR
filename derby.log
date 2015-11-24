@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Nov 22 13:57:54 GMT+01:00 2015:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0151-2f45-adc2-000002b656d8 
+on database directory D:\Users\rlopezpe\workspace\MailVYR\vyrmail with class loader sun.misc.Launcher$AppClassLoader@c387f44 
+Loaded from file:/D:/Users/rlopezpe/workspace/MailVYR/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_45-b15
+user.dir=D:\Users\rlopezpe\workspace\MailVYR
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

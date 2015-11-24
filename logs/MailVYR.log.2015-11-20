@@ -1,0 +1,423 @@
+[20-11-2015 16:26:09,967] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[20-11-2015 16:26:10,757] [main] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 16:26:10,757] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 16:26:12,771] [main] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Creando statement...
+[20-11-2015 16:26:12,772] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Creando statement...
+[20-11-2015 16:35:22,865] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[20-11-2015 16:35:23,520] [main] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 16:35:23,521] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 16:35:23,874] [main] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Creando statement...
+[20-11-2015 16:35:23,877] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Creando statement...
+[20-11-2015 16:35:24,037] [main] INFO  controlador.ConexionBBDD.creaTablaClientes() - Creando statement...
+[20-11-2015 16:35:24,038] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.creaTablaClientes() - Creando statement...
+[20-11-2015 16:40:49,765] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[20-11-2015 16:40:50,279] [main] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 16:40:50,279] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 16:40:50,564] [main] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[20-11-2015 16:40:50,565] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[20-11-2015 16:40:50,736] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes no existe
+[20-11-2015 16:40:50,736] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.creaTablaClientes() - Creando tabla clientes
+[20-11-2015 16:40:50,741] [main] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes no existe
+[20-11-2015 16:40:50,741] [main] INFO  controlador.ConexionBBDD.creaTablaClientes() - Creando tabla clientes
+[20-11-2015 16:40:50,742] [AWT-EventQueue-0] ERROR controlador.ConexionBBDD.creaTablaClientes() - Error al crear la tabla clientes
+[20-11-2015 16:40:50,744] [main] ERROR controlador.ConexionBBDD.creaTablaClientes() - Error al crear la tabla clientes
+[20-11-2015 16:45:38,738] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[20-11-2015 16:45:39,311] [main] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 16:45:39,312] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 16:45:39,595] [main] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[20-11-2015 16:45:39,595] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[20-11-2015 16:45:39,759] [main] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes no existe
+[20-11-2015 16:45:39,760] [main] INFO  controlador.ConexionBBDD.creaTablaClientes() - Creando tabla clientes
+[20-11-2015 16:45:39,762] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes no existe
+[20-11-2015 16:45:39,762] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.creaTablaClientes() - Creando tabla clientes
+[20-11-2015 16:45:39,765] [AWT-EventQueue-0] ERROR controlador.ConexionBBDD.creaTablaClientes() - Error al crear la tabla clientes
+[20-11-2015 16:45:39,765] [main] ERROR controlador.ConexionBBDD.creaTablaClientes() - Error al crear la tabla clientes
+[20-11-2015 16:46:30,407] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[20-11-2015 16:46:31,100] [main] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 16:46:31,500] [main] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[20-11-2015 16:46:31,723] [main] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes no existe
+[20-11-2015 16:46:31,723] [main] INFO  controlador.ConexionBBDD.creaTablaClientes() - Creando tabla clientes
+[20-11-2015 16:46:31,731] [main] ERROR controlador.ConexionBBDD.creaTablaClientes() - Error al crear la tabla clientes
+[20-11-2015 16:47:11,896] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[20-11-2015 16:47:12,449] [main] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 16:47:12,451] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 16:47:12,757] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[20-11-2015 16:47:12,760] [main] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[20-11-2015 16:47:12,927] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes no existe
+[20-11-2015 16:47:12,927] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.creaTablaClientes() - CREATE TABLE clientes (idcliente int(11) NOT NULL AUTO_INCREMENT,nombrecliente varchar(45) DEFAULT NULL,primerapellidocliente varchar(45) DEFAULT NULL,segundoapellidocliente varchar(45) DEFAULT NULL,dnicliente varchar(45) DEFAULT NULL,telefonofijocliente varchar(45) DEFAULT NULL,telefonomovilcliente varchar(45) DEFAULT NULL,emailcliente varchar(45) DEFAULT NULL,PRIMARY KEY (idcliente)) ENGINE=InnoDB AUTO_INCREMENT=16 DEFAULT CHARSET=utf8;
+[20-11-2015 16:47:12,928] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.creaTablaClientes() - Creando tabla clientes
+[20-11-2015 16:47:12,929] [main] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes no existe
+[20-11-2015 16:47:12,930] [main] INFO  controlador.ConexionBBDD.creaTablaClientes() - CREATE TABLE clientes (idcliente int(11) NOT NULL AUTO_INCREMENT,nombrecliente varchar(45) DEFAULT NULL,primerapellidocliente varchar(45) DEFAULT NULL,segundoapellidocliente varchar(45) DEFAULT NULL,dnicliente varchar(45) DEFAULT NULL,telefonofijocliente varchar(45) DEFAULT NULL,telefonomovilcliente varchar(45) DEFAULT NULL,emailcliente varchar(45) DEFAULT NULL,PRIMARY KEY (idcliente)) ENGINE=InnoDB AUTO_INCREMENT=16 DEFAULT CHARSET=utf8;
+[20-11-2015 16:47:12,931] [main] INFO  controlador.ConexionBBDD.creaTablaClientes() - Creando tabla clientes
+[20-11-2015 16:47:12,934] [AWT-EventQueue-0] ERROR controlador.ConexionBBDD.creaTablaClientes() - Error al crear la tabla clientes
+[20-11-2015 16:47:12,935] [main] ERROR controlador.ConexionBBDD.creaTablaClientes() - Error al crear la tabla clientes
+[20-11-2015 16:48:11,260] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[20-11-2015 16:48:11,767] [main] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 16:48:11,787] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 16:48:12,198] [main] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[20-11-2015 16:48:12,204] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[20-11-2015 16:48:12,436] [main] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes no existe
+[20-11-2015 16:48:12,437] [main] INFO  controlador.ConexionBBDD.creaTablaClientes() - CREATE TABLE clientes ('idcliente' int(11) NOT NULL AUTO_INCREMENT,'nombrecliente' varchar(45) DEFAULT NULL,'primerapellidocliente' varchar(45) DEFAULT NULL,'segundoapellidocliente' varchar(45) DEFAULT NULL,'dnicliente' varchar(45) DEFAULT NULL,'telefonofijocliente' varchar(45) DEFAULT NULL,'telefonomovilcliente' varchar(45) DEFAULT NULL,'emailcliente' varchar(45) DEFAULT NULL,PRIMARY KEY ('idcliente')) ENGINE=InnoDB AUTO_INCREMENT=16 DEFAULT CHARSET=utf8;
+[20-11-2015 16:48:12,437] [main] INFO  controlador.ConexionBBDD.creaTablaClientes() - Creando tabla clientes
+[20-11-2015 16:48:12,439] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes no existe
+[20-11-2015 16:48:12,439] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.creaTablaClientes() - CREATE TABLE clientes ('idcliente' int(11) NOT NULL AUTO_INCREMENT,'nombrecliente' varchar(45) DEFAULT NULL,'primerapellidocliente' varchar(45) DEFAULT NULL,'segundoapellidocliente' varchar(45) DEFAULT NULL,'dnicliente' varchar(45) DEFAULT NULL,'telefonofijocliente' varchar(45) DEFAULT NULL,'telefonomovilcliente' varchar(45) DEFAULT NULL,'emailcliente' varchar(45) DEFAULT NULL,PRIMARY KEY ('idcliente')) ENGINE=InnoDB AUTO_INCREMENT=16 DEFAULT CHARSET=utf8;
+[20-11-2015 16:48:12,439] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.creaTablaClientes() - Creando tabla clientes
+[20-11-2015 16:48:12,448] [main] ERROR controlador.ConexionBBDD.creaTablaClientes() - Error al crear la tabla clientes
+[20-11-2015 16:48:12,455] [AWT-EventQueue-0] ERROR controlador.ConexionBBDD.creaTablaClientes() - Error al crear la tabla clientes
+[20-11-2015 16:49:19,552] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[20-11-2015 16:49:20,046] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 16:49:20,069] [main] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 16:49:20,346] [main] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[20-11-2015 16:49:20,346] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[20-11-2015 16:49:20,511] [main] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes no existe
+[20-11-2015 16:49:20,511] [main] INFO  controlador.ConexionBBDD.creaTablaClientes() - CREATE TABLE 'clientes' ('idcliente' int(11) NOT NULL AUTO_INCREMENT,'nombrecliente' varchar(45) DEFAULT NULL,'primerapellidocliente' varchar(45) DEFAULT NULL,'segundoapellidocliente' varchar(45) DEFAULT NULL,'dnicliente' varchar(45) DEFAULT NULL,'telefonofijocliente' varchar(45) DEFAULT NULL,'telefonomovilcliente' varchar(45) DEFAULT NULL,'emailcliente' varchar(45) DEFAULT NULL,PRIMARY KEY ('idcliente')) ENGINE=InnoDB AUTO_INCREMENT=16 DEFAULT CHARSET=utf8;
+[20-11-2015 16:49:20,512] [main] INFO  controlador.ConexionBBDD.creaTablaClientes() - Creando tabla clientes
+[20-11-2015 16:49:20,515] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes no existe
+[20-11-2015 16:49:20,516] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.creaTablaClientes() - CREATE TABLE 'clientes' ('idcliente' int(11) NOT NULL AUTO_INCREMENT,'nombrecliente' varchar(45) DEFAULT NULL,'primerapellidocliente' varchar(45) DEFAULT NULL,'segundoapellidocliente' varchar(45) DEFAULT NULL,'dnicliente' varchar(45) DEFAULT NULL,'telefonofijocliente' varchar(45) DEFAULT NULL,'telefonomovilcliente' varchar(45) DEFAULT NULL,'emailcliente' varchar(45) DEFAULT NULL,PRIMARY KEY ('idcliente')) ENGINE=InnoDB AUTO_INCREMENT=16 DEFAULT CHARSET=utf8;
+[20-11-2015 16:49:20,516] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.creaTablaClientes() - Creando tabla clientes
+[20-11-2015 16:49:20,521] [main] ERROR controlador.ConexionBBDD.creaTablaClientes() - Error al crear la tabla clientes
+[20-11-2015 16:49:20,525] [AWT-EventQueue-0] ERROR controlador.ConexionBBDD.creaTablaClientes() - Error al crear la tabla clientes
+[20-11-2015 16:50:21,258] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[20-11-2015 16:50:21,800] [main] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 16:50:21,808] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 16:50:22,139] [main] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[20-11-2015 16:50:22,139] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[20-11-2015 16:50:22,311] [main] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes no existe
+[20-11-2015 16:50:22,311] [main] INFO  controlador.ConexionBBDD.creaTablaClientes() - CREATE TABLE clientes (idcliente int(11) NOT NULL AUTO_INCREMENT,nombrecliente varchar(45) DEFAULT NULL,primerapellidocliente varchar(45) DEFAULT NULL,segundoapellidocliente varchar(45) DEFAULT NULL,dnicliente varchar(45) DEFAULT NULL,telefonofijocliente varchar(45) DEFAULT NULL,telefonomovilcliente varchar(45) DEFAULT NULL,emailcliente varchar(45) DEFAULT NULL,PRIMARY KEY (idcliente)) ENGINE=InnoDB AUTO_INCREMENT=16 DEFAULT CHARSET=utf8;
+[20-11-2015 16:50:22,311] [main] INFO  controlador.ConexionBBDD.creaTablaClientes() - Creando tabla clientes
+[20-11-2015 16:50:22,317] [main] ERROR controlador.ConexionBBDD.creaTablaClientes() - Error al crear la tabla clientes
+[20-11-2015 16:50:22,319] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes no existe
+[20-11-2015 16:50:22,320] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.creaTablaClientes() - CREATE TABLE clientes (idcliente int(11) NOT NULL AUTO_INCREMENT,nombrecliente varchar(45) DEFAULT NULL,primerapellidocliente varchar(45) DEFAULT NULL,segundoapellidocliente varchar(45) DEFAULT NULL,dnicliente varchar(45) DEFAULT NULL,telefonofijocliente varchar(45) DEFAULT NULL,telefonomovilcliente varchar(45) DEFAULT NULL,emailcliente varchar(45) DEFAULT NULL,PRIMARY KEY (idcliente)) ENGINE=InnoDB AUTO_INCREMENT=16 DEFAULT CHARSET=utf8;
+[20-11-2015 16:50:22,321] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.creaTablaClientes() - Creando tabla clientes
+[20-11-2015 16:50:22,322] [AWT-EventQueue-0] ERROR controlador.ConexionBBDD.creaTablaClientes() - Error al crear la tabla clientes
+[20-11-2015 16:51:42,270] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[20-11-2015 16:51:42,838] [main] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 16:51:42,838] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 16:51:43,132] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[20-11-2015 16:51:43,142] [main] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[20-11-2015 16:51:43,300] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes no existe
+[20-11-2015 16:51:43,300] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.creaTablaClientes() - CREATE TABLE clientes (idcliente int(11) NOT NULL AUTO_INCREMENT,nombrecliente varchar(45) DEFAULT NULL,primerapellidocliente varchar(45) DEFAULT NULL,segundoapellidocliente varchar(45) DEFAULT NULL,dnicliente varchar(45) DEFAULT NULL,telefonofijocliente varchar(45) DEFAULT NULL,telefonomovilcliente varchar(45) DEFAULT NULL,emailcliente varchar(45) DEFAULT NULL,PRIMARY KEY (idcliente)
+[20-11-2015 16:51:43,301] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.creaTablaClientes() - Creando tabla clientes
+[20-11-2015 16:51:43,306] [AWT-EventQueue-0] ERROR controlador.ConexionBBDD.creaTablaClientes() - Error al crear la tabla clientes
+[20-11-2015 16:51:43,308] [main] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes no existe
+[20-11-2015 16:51:43,308] [main] INFO  controlador.ConexionBBDD.creaTablaClientes() - CREATE TABLE clientes (idcliente int(11) NOT NULL AUTO_INCREMENT,nombrecliente varchar(45) DEFAULT NULL,primerapellidocliente varchar(45) DEFAULT NULL,segundoapellidocliente varchar(45) DEFAULT NULL,dnicliente varchar(45) DEFAULT NULL,telefonofijocliente varchar(45) DEFAULT NULL,telefonomovilcliente varchar(45) DEFAULT NULL,emailcliente varchar(45) DEFAULT NULL,PRIMARY KEY (idcliente)
+[20-11-2015 16:51:43,309] [main] INFO  controlador.ConexionBBDD.creaTablaClientes() - Creando tabla clientes
+[20-11-2015 16:51:43,315] [main] ERROR controlador.ConexionBBDD.creaTablaClientes() - Error al crear la tabla clientes
+[20-11-2015 16:52:03,376] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[20-11-2015 16:52:03,871] [main] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 16:52:03,874] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 16:52:04,178] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[20-11-2015 16:52:04,178] [main] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[20-11-2015 16:52:04,342] [main] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes no existe
+[20-11-2015 16:52:04,342] [main] INFO  controlador.ConexionBBDD.creaTablaClientes() - CREATE TABLE clientes (idcliente int(11) NOT NULL AUTO_INCREMENT,nombrecliente varchar(45) DEFAULT NULL,primerapellidocliente varchar(45) DEFAULT NULL,segundoapellidocliente varchar(45) DEFAULT NULL,dnicliente varchar(45) DEFAULT NULL,telefonofijocliente varchar(45) DEFAULT NULL,telefonomovilcliente varchar(45) DEFAULT NULL,emailcliente varchar(45) DEFAULT NULL,PRIMARY KEY (idcliente))
+[20-11-2015 16:52:04,343] [main] INFO  controlador.ConexionBBDD.creaTablaClientes() - Creando tabla clientes
+[20-11-2015 16:52:04,344] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes no existe
+[20-11-2015 16:52:04,344] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.creaTablaClientes() - CREATE TABLE clientes (idcliente int(11) NOT NULL AUTO_INCREMENT,nombrecliente varchar(45) DEFAULT NULL,primerapellidocliente varchar(45) DEFAULT NULL,segundoapellidocliente varchar(45) DEFAULT NULL,dnicliente varchar(45) DEFAULT NULL,telefonofijocliente varchar(45) DEFAULT NULL,telefonomovilcliente varchar(45) DEFAULT NULL,emailcliente varchar(45) DEFAULT NULL,PRIMARY KEY (idcliente))
+[20-11-2015 16:52:04,345] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.creaTablaClientes() - Creando tabla clientes
+[20-11-2015 16:52:04,348] [main] ERROR controlador.ConexionBBDD.creaTablaClientes() - Error al crear la tabla clientes
+[20-11-2015 16:52:04,353] [AWT-EventQueue-0] ERROR controlador.ConexionBBDD.creaTablaClientes() - Error al crear la tabla clientes
+[20-11-2015 16:58:55,069] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[20-11-2015 16:58:55,630] [main] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 16:58:55,637] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 16:58:55,938] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[20-11-2015 16:58:55,940] [main] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[20-11-2015 16:58:56,105] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes no existe
+[20-11-2015 16:58:56,105] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.creaTablaClientes() - CREATE TABLE clientes (idcliente int(11) NOT NULL AUTO_INCREMENT,nombrecliente varchar(45) DEFAULT NULL,primerapellidocliente varchar(45) DEFAULT NULL,segundoapellidocliente varchar(45) DEFAULT NULL,dnicliente varchar(45) DEFAULT NULL,telefonofijocliente varchar(45) DEFAULT NULL,telefonomovilcliente varchar(45) DEFAULT NULL,emailcliente varchar(45) DEFAULT NULL,PRIMARY KEY (idcliente))
+[20-11-2015 16:58:56,106] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.creaTablaClientes() - Creando tabla clientes
+[20-11-2015 16:58:56,107] [main] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes no existe
+[20-11-2015 16:58:56,107] [main] INFO  controlador.ConexionBBDD.creaTablaClientes() - CREATE TABLE clientes (idcliente int(11) NOT NULL AUTO_INCREMENT,nombrecliente varchar(45) DEFAULT NULL,primerapellidocliente varchar(45) DEFAULT NULL,segundoapellidocliente varchar(45) DEFAULT NULL,dnicliente varchar(45) DEFAULT NULL,telefonofijocliente varchar(45) DEFAULT NULL,telefonomovilcliente varchar(45) DEFAULT NULL,emailcliente varchar(45) DEFAULT NULL,PRIMARY KEY (idcliente))
+[20-11-2015 16:58:56,108] [main] INFO  controlador.ConexionBBDD.creaTablaClientes() - Creando tabla clientes
+[20-11-2015 16:58:56,111] [AWT-EventQueue-0] ERROR controlador.ConexionBBDD.creaTablaClientes() - Error al crear la tabla clientes
+[20-11-2015 16:58:56,111] [AWT-EventQueue-0] ERROR controlador.ConexionBBDD.creaTablaClientes() - Syntax error: Encountered "(" at line 1, column 37.
+[20-11-2015 16:58:56,112] [AWT-EventQueue-0] ERROR controlador.ConexionBBDD.creaTablaClientes() - 42X01
+[20-11-2015 16:58:56,119] [main] ERROR controlador.ConexionBBDD.creaTablaClientes() - Error al crear la tabla clientes
+[20-11-2015 16:58:56,120] [main] ERROR controlador.ConexionBBDD.creaTablaClientes() - Syntax error: Encountered "(" at line 1, column 37.
+[20-11-2015 16:58:56,124] [main] ERROR controlador.ConexionBBDD.creaTablaClientes() - 42X01
+[20-11-2015 16:59:47,029] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[20-11-2015 16:59:47,671] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 16:59:47,698] [main] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 16:59:47,955] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[20-11-2015 16:59:47,958] [main] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[20-11-2015 16:59:48,121] [main] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes no existe
+[20-11-2015 16:59:48,121] [main] INFO  controlador.ConexionBBDD.creaTablaClientes() - CREATE TABLE clientes (idcliente int(11) NOT NULL AUTO_INCREMENT,nombrecliente varchar(45) DEFAULT NULL,primerapellidocliente varchar(45) DEFAULT NULL,segundoapellidocliente varchar(45) DEFAULT NULL,dnicliente varchar(45) DEFAULT NULL,telefonofijocliente varchar(45) DEFAULT NULL,telefonomovilcliente varchar(45) DEFAULT NULL,emailcliente varchar(45) DEFAULT NULL,PRIMARY KEY (idcliente)) ENGINE=InnoDB AUTO_INCREMENT=16 DEFAULT CHARSET=utf8;
+[20-11-2015 16:59:48,122] [main] INFO  controlador.ConexionBBDD.creaTablaClientes() - Creando tabla clientes
+[20-11-2015 16:59:48,127] [main] ERROR controlador.ConexionBBDD.creaTablaClientes() - Error al crear la tabla clientes
+[20-11-2015 16:59:48,128] [main] ERROR controlador.ConexionBBDD.creaTablaClientes() - Syntax error: Encountered "(" at line 1, column 37.
+[20-11-2015 16:59:48,128] [main] ERROR controlador.ConexionBBDD.creaTablaClientes() - 42X01
+[20-11-2015 16:59:48,129] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes no existe
+[20-11-2015 16:59:48,130] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.creaTablaClientes() - CREATE TABLE clientes (idcliente int(11) NOT NULL AUTO_INCREMENT,nombrecliente varchar(45) DEFAULT NULL,primerapellidocliente varchar(45) DEFAULT NULL,segundoapellidocliente varchar(45) DEFAULT NULL,dnicliente varchar(45) DEFAULT NULL,telefonofijocliente varchar(45) DEFAULT NULL,telefonomovilcliente varchar(45) DEFAULT NULL,emailcliente varchar(45) DEFAULT NULL,PRIMARY KEY (idcliente)) ENGINE=InnoDB AUTO_INCREMENT=16 DEFAULT CHARSET=utf8;
+[20-11-2015 16:59:48,130] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.creaTablaClientes() - Creando tabla clientes
+[20-11-2015 16:59:48,132] [AWT-EventQueue-0] ERROR controlador.ConexionBBDD.creaTablaClientes() - Error al crear la tabla clientes
+[20-11-2015 16:59:48,132] [AWT-EventQueue-0] ERROR controlador.ConexionBBDD.creaTablaClientes() - Syntax error: Encountered "(" at line 1, column 37.
+[20-11-2015 16:59:48,134] [AWT-EventQueue-0] ERROR controlador.ConexionBBDD.creaTablaClientes() - 42X01
+[20-11-2015 17:00:32,412] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[20-11-2015 17:00:32,908] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 17:00:32,914] [main] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 17:00:33,223] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[20-11-2015 17:00:33,223] [main] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[20-11-2015 17:00:33,391] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes no existe
+[20-11-2015 17:00:33,391] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.creaTablaClientes() - CREATE TABLE clientes (idcliente int(11) NOT NULL AUTO_INCREMENT)
+[20-11-2015 17:00:33,391] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.creaTablaClientes() - Creando tabla clientes
+[20-11-2015 17:00:33,394] [main] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes no existe
+[20-11-2015 17:00:33,394] [main] INFO  controlador.ConexionBBDD.creaTablaClientes() - CREATE TABLE clientes (idcliente int(11) NOT NULL AUTO_INCREMENT)
+[20-11-2015 17:00:33,394] [main] INFO  controlador.ConexionBBDD.creaTablaClientes() - Creando tabla clientes
+[20-11-2015 17:00:33,397] [AWT-EventQueue-0] ERROR controlador.ConexionBBDD.creaTablaClientes() - Error al crear la tabla clientes
+[20-11-2015 17:00:33,397] [AWT-EventQueue-0] ERROR controlador.ConexionBBDD.creaTablaClientes() - Syntax error: Encountered "(" at line 1, column 37.
+[20-11-2015 17:00:33,397] [AWT-EventQueue-0] ERROR controlador.ConexionBBDD.creaTablaClientes() - 42X01
+[20-11-2015 17:00:33,398] [main] ERROR controlador.ConexionBBDD.creaTablaClientes() - Error al crear la tabla clientes
+[20-11-2015 17:00:33,398] [main] ERROR controlador.ConexionBBDD.creaTablaClientes() - Syntax error: Encountered "(" at line 1, column 37.
+[20-11-2015 17:00:33,401] [main] ERROR controlador.ConexionBBDD.creaTablaClientes() - 42X01
+[20-11-2015 17:01:37,857] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[20-11-2015 17:01:38,374] [main] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 17:01:38,375] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 17:01:38,661] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[20-11-2015 17:01:38,668] [main] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[20-11-2015 17:01:38,830] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes no existe
+[20-11-2015 17:01:38,830] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.creaTablaClientes() - CREATE TABLE clientes (idcliente int NOT NULL AUTO_INCREMENT,nombrecliente varchar(45) DEFAULT NULL,primerapellidocliente varchar(45) DEFAULT NULL,segundoapellidocliente varchar(45) DEFAULT NULL,dnicliente varchar(45) DEFAULT NULL,telefonofijocliente varchar(45) DEFAULT NULL,telefonomovilcliente varchar(45) DEFAULT NULL,emailcliente varchar(45) DEFAULT NULL,PRIMARY KEY (idcliente)) ENGINE=InnoDB AUTO_INCREMENT=16 DEFAULT CHARSET=utf8;
+[20-11-2015 17:01:38,831] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.creaTablaClientes() - Creando tabla clientes
+[20-11-2015 17:01:38,832] [main] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes no existe
+[20-11-2015 17:01:38,832] [main] INFO  controlador.ConexionBBDD.creaTablaClientes() - CREATE TABLE clientes (idcliente int NOT NULL AUTO_INCREMENT,nombrecliente varchar(45) DEFAULT NULL,primerapellidocliente varchar(45) DEFAULT NULL,segundoapellidocliente varchar(45) DEFAULT NULL,dnicliente varchar(45) DEFAULT NULL,telefonofijocliente varchar(45) DEFAULT NULL,telefonomovilcliente varchar(45) DEFAULT NULL,emailcliente varchar(45) DEFAULT NULL,PRIMARY KEY (idcliente)) ENGINE=InnoDB AUTO_INCREMENT=16 DEFAULT CHARSET=utf8;
+[20-11-2015 17:01:38,833] [main] INFO  controlador.ConexionBBDD.creaTablaClientes() - Creando tabla clientes
+[20-11-2015 17:01:38,836] [AWT-EventQueue-0] ERROR controlador.ConexionBBDD.creaTablaClientes() - Error al crear la tabla clientes
+[20-11-2015 17:01:38,836] [AWT-EventQueue-0] ERROR controlador.ConexionBBDD.creaTablaClientes() - Syntax error: Encountered "AUTO_INCREMENT" at line 1, column 47.
+[20-11-2015 17:01:38,837] [AWT-EventQueue-0] ERROR controlador.ConexionBBDD.creaTablaClientes() - 42X01
+[20-11-2015 17:01:38,842] [main] ERROR controlador.ConexionBBDD.creaTablaClientes() - Error al crear la tabla clientes
+[20-11-2015 17:01:38,843] [main] ERROR controlador.ConexionBBDD.creaTablaClientes() - Syntax error: Encountered "AUTO_INCREMENT" at line 1, column 47.
+[20-11-2015 17:01:38,847] [main] ERROR controlador.ConexionBBDD.creaTablaClientes() - 42X01
+[20-11-2015 17:06:18,827] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[20-11-2015 17:06:19,524] [main] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 17:06:19,525] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 17:06:19,885] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[20-11-2015 17:06:19,885] [main] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[20-11-2015 17:06:20,081] [main] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes no existe
+[20-11-2015 17:06:20,081] [main] INFO  controlador.ConexionBBDD.creaTablaClientes() - CREATE TABLE clientes (idcliente INTEGER NOT NULL GENERATED ALWAYS AS IDENTITY (START WITH 1, INCREMENT BY 1),nombrecliente varchar(45) DEFAULT NULL,primerapellidocliente varchar(45) DEFAULT NULL,segundoapellidocliente varchar(45) DEFAULT NULL,dnicliente varchar(45) DEFAULT NULL,telefonofijocliente varchar(45) DEFAULT NULL,telefonomovilcliente varchar(45) DEFAULT NULL,emailcliente varchar(45) DEFAULT NULL,PRIMARY KEY (idcliente)) ENGINE=InnoDB AUTO_INCREMENT=16 DEFAULT CHARSET=utf8;
+[20-11-2015 17:06:20,081] [main] INFO  controlador.ConexionBBDD.creaTablaClientes() - Creando tabla clientes
+[20-11-2015 17:06:20,088] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes no existe
+[20-11-2015 17:06:20,088] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.creaTablaClientes() - CREATE TABLE clientes (idcliente INTEGER NOT NULL GENERATED ALWAYS AS IDENTITY (START WITH 1, INCREMENT BY 1),nombrecliente varchar(45) DEFAULT NULL,primerapellidocliente varchar(45) DEFAULT NULL,segundoapellidocliente varchar(45) DEFAULT NULL,dnicliente varchar(45) DEFAULT NULL,telefonofijocliente varchar(45) DEFAULT NULL,telefonomovilcliente varchar(45) DEFAULT NULL,emailcliente varchar(45) DEFAULT NULL,PRIMARY KEY (idcliente)) ENGINE=InnoDB AUTO_INCREMENT=16 DEFAULT CHARSET=utf8;
+[20-11-2015 17:06:20,089] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.creaTablaClientes() - Creando tabla clientes
+[20-11-2015 17:06:20,096] [main] ERROR controlador.ConexionBBDD.creaTablaClientes() - Error al crear la tabla clientes
+[20-11-2015 17:06:20,096] [main] ERROR controlador.ConexionBBDD.creaTablaClientes() - Syntax error: Encountered "ENGINE" at line 1, column 435.
+[20-11-2015 17:06:20,098] [main] ERROR controlador.ConexionBBDD.creaTablaClientes() - 42X01
+[20-11-2015 17:06:20,103] [AWT-EventQueue-0] ERROR controlador.ConexionBBDD.creaTablaClientes() - Error al crear la tabla clientes
+[20-11-2015 17:06:20,104] [AWT-EventQueue-0] ERROR controlador.ConexionBBDD.creaTablaClientes() - Syntax error: Encountered "ENGINE" at line 1, column 435.
+[20-11-2015 17:06:20,105] [AWT-EventQueue-0] ERROR controlador.ConexionBBDD.creaTablaClientes() - 42X01
+[20-11-2015 17:06:36,398] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[20-11-2015 17:06:37,005] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 17:06:37,007] [main] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 17:06:37,356] [main] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[20-11-2015 17:06:37,356] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[20-11-2015 17:06:37,553] [main] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes no existe
+[20-11-2015 17:06:37,554] [main] INFO  controlador.ConexionBBDD.creaTablaClientes() - CREATE TABLE clientes (idcliente INTEGER NOT NULL GENERATED ALWAYS AS IDENTITY (START WITH 1, INCREMENT BY 1),nombrecliente varchar(45) DEFAULT NULL,primerapellidocliente varchar(45) DEFAULT NULL,segundoapellidocliente varchar(45) DEFAULT NULL,dnicliente varchar(45) DEFAULT NULL,telefonofijocliente varchar(45) DEFAULT NULL,telefonomovilcliente varchar(45) DEFAULT NULL,emailcliente varchar(45) DEFAULT NULL,PRIMARY KEY (idcliente))
+[20-11-2015 17:06:37,554] [main] INFO  controlador.ConexionBBDD.creaTablaClientes() - Creando tabla clientes
+[20-11-2015 17:06:37,555] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes no existe
+[20-11-2015 17:06:37,556] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.creaTablaClientes() - CREATE TABLE clientes (idcliente INTEGER NOT NULL GENERATED ALWAYS AS IDENTITY (START WITH 1, INCREMENT BY 1),nombrecliente varchar(45) DEFAULT NULL,primerapellidocliente varchar(45) DEFAULT NULL,segundoapellidocliente varchar(45) DEFAULT NULL,dnicliente varchar(45) DEFAULT NULL,telefonofijocliente varchar(45) DEFAULT NULL,telefonomovilcliente varchar(45) DEFAULT NULL,emailcliente varchar(45) DEFAULT NULL,PRIMARY KEY (idcliente))
+[20-11-2015 17:06:37,556] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.creaTablaClientes() - Creando tabla clientes
+[20-11-2015 17:06:37,725] [main] ERROR controlador.ConexionBBDD.creaTablaClientes() - Error al crear la tabla clientes
+[20-11-2015 17:06:37,726] [main] ERROR controlador.ConexionBBDD.creaTablaClientes() - Table/View 'CLIENTES' already exists in Schema 'APP'.
+[20-11-2015 17:06:37,727] [main] ERROR controlador.ConexionBBDD.creaTablaClientes() - X0Y32
+[20-11-2015 17:07:44,210] [AWT-EventQueue-0] INFO  vista.Inicio.mouseClicked() - Botón guardar cliente pulsado
+[20-11-2015 17:07:44,213] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 17:07:44,216] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[20-11-2015 17:07:44,298] [AWT-EventQueue-0] ERROR controlador.ConexionBBDD.compruebaTablaClientes() - Unhandled SQLException
+[20-11-2015 17:07:44,354] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 17:07:44,356] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[20-11-2015 17:07:44,357] [AWT-EventQueue-0] ERROR controlador.ConexionBBDD.compruebaTablaClientes() - Unhandled SQLException
+[20-11-2015 17:12:10,590] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[20-11-2015 17:12:11,247] [main] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 17:13:09,320] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[20-11-2015 17:13:09,810] [main] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 17:13:10,373] [main] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[20-11-2015 17:13:10,806] [main] ERROR controlador.ConexionBBDD.compruebaTablaClientes() - Unhandled SQLException
+[20-11-2015 17:13:52,591] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[20-11-2015 17:13:53,109] [main] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 17:13:53,651] [main] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[20-11-2015 17:13:53,954] [main] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[20-11-2015 17:15:16,255] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[20-11-2015 17:15:16,928] [main] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 17:15:17,254] [main] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[20-11-2015 17:15:17,632] [main] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[20-11-2015 17:15:35,185] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[20-11-2015 17:15:35,777] [main] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 17:15:35,778] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 17:15:36,107] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[20-11-2015 17:15:36,119] [main] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[20-11-2015 17:15:36,413] [main] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[20-11-2015 17:15:36,415] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[20-11-2015 17:16:46,425] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[20-11-2015 17:16:55,117] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[20-11-2015 17:19:55,354] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[20-11-2015 17:20:40,710] [AWT-EventQueue-0] INFO  vista.Inicio.mouseClicked() - Botón guardar cliente pulsado
+[20-11-2015 17:20:40,712] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 17:20:40,716] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[20-11-2015 17:20:40,717] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[20-11-2015 17:21:19,036] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[20-11-2015 17:21:19,695] [main] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 17:21:19,696] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 17:21:20,040] [main] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[20-11-2015 17:21:20,040] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[20-11-2015 17:21:20,340] [main] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[20-11-2015 17:21:20,340] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[20-11-2015 17:22:39,863] [AWT-EventQueue-0] INFO  vista.Inicio.mouseClicked() - Botón guardar cliente pulsado
+[20-11-2015 17:22:39,865] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 17:22:39,867] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[20-11-2015 17:22:39,868] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[20-11-2015 17:22:39,917] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 17:22:39,922] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[20-11-2015 17:22:39,924] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[20-11-2015 17:31:06,100] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[20-11-2015 17:31:06,631] [main] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 17:31:06,635] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 17:31:06,975] [main] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[20-11-2015 17:31:06,975] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[20-11-2015 17:31:07,275] [main] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[20-11-2015 17:31:07,277] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[20-11-2015 17:34:48,699] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[20-11-2015 17:34:49,418] [main] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 17:34:49,420] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 17:34:49,741] [main] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[20-11-2015 17:34:49,742] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[20-11-2015 17:34:50,043] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[20-11-2015 17:34:50,045] [main] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[20-11-2015 17:35:20,499] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[20-11-2015 17:35:21,165] [main] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 17:35:21,175] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 17:35:21,543] [main] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[20-11-2015 17:35:21,553] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[20-11-2015 17:35:21,866] [main] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[20-11-2015 17:35:21,867] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[20-11-2015 17:58:25,253] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[20-11-2015 17:58:25,762] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 17:58:25,772] [main] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 17:58:26,063] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[20-11-2015 17:58:26,063] [main] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[20-11-2015 17:58:26,349] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[20-11-2015 17:58:26,358] [main] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[20-11-2015 18:01:25,736] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[20-11-2015 18:01:26,275] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 18:01:26,568] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[20-11-2015 18:01:26,832] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[20-11-2015 18:01:51,539] [AWT-EventQueue-0] INFO  vista.Inicio.mouseClicked() - Botón guardar cliente pulsado
+[20-11-2015 18:01:51,541] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 18:01:51,547] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[20-11-2015 18:01:51,549] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[20-11-2015 18:01:51,623] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 18:01:51,624] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[20-11-2015 18:01:51,625] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[20-11-2015 18:05:45,377] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[20-11-2015 18:05:45,980] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 18:05:46,247] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[20-11-2015 18:05:46,518] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[20-11-2015 18:24:23,091] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[20-11-2015 18:24:23,700] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 18:24:24,096] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[20-11-2015 18:24:24,410] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[20-11-2015 18:25:45,067] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[20-11-2015 18:25:45,625] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 18:25:45,907] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[20-11-2015 18:25:46,172] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[20-11-2015 18:25:56,586] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.enviaMail() - Enviando mensaje...
+[20-11-2015 18:26:10,357] [AWT-EventQueue-0] ERROR controlador.ConexionBBDD.enviaMail() - 550 5.7.60 SMTP; Client does not have permissions to send as this sender
+
+[20-11-2015 18:26:10,359] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.enviaMail() - ###########################################################
+[20-11-2015 18:28:04,658] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[20-11-2015 18:28:05,220] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 18:28:14,388] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[20-11-2015 18:28:14,948] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 18:28:15,209] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[20-11-2015 18:28:15,470] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[20-11-2015 18:28:28,766] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.enviaMail() - Enviando mensaje...
+[20-11-2015 18:28:35,968] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.enviaMail() - Mensaje enviado
+###########################################################
+[20-11-2015 18:34:34,723] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[20-11-2015 18:34:35,367] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 18:34:35,736] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[20-11-2015 18:34:36,013] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[20-11-2015 18:34:42,828] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.enviaMail() - Enviando mensaje...
+[20-11-2015 18:34:44,777] [AWT-EventQueue-0] ERROR controlador.ConexionBBDD.enviaMail() - 534-5.7.14 <https://accounts.google.com/ContinueSignIn?sarp=1&scc=1&plt=AKgnsbsdE
+534-5.7.14 w8uPl4haW-D95ZU9xklUgYfIcuoxhP-x4LadvT1hm8_4MQUmOQOEpv24k1xWAG_u6DvRak
+534-5.7.14 yFoHL0Q_9HDwfsuxuR87nwSMObV-uhnhQeBsWnI9ZRfqk-bqPaEvWaCeKTEPkB_5F8NxGU
+534-5.7.14 g8iQ3s1V0qYxNrG81V_yGnxwnd4rlZErW1nqlifzQNLEQ4Yk-ntKrb15KMyPqX_LUOuSI-
+534-5.7.14 NnDUUtDc8-m7CvwttaJKZ-B9V278> Please log in via your web browser and
+534-5.7.14 then try again.
+534-5.7.14  Learn more at
+534 5.7.14  https://support.google.com/mail/answer/78754 q6sm494409wjx.28 - gsmtp
+
+[20-11-2015 18:34:44,780] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.enviaMail() - ###########################################################
+[20-11-2015 18:37:07,839] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.enviaMail() - Enviando mensaje...
+[20-11-2015 18:37:09,392] [AWT-EventQueue-0] ERROR controlador.ConexionBBDD.enviaMail() - 534-5.7.14 <https://accounts.google.com/ContinueSignIn?sarp=1&scc=1&plt=AKgnsbu-9
+534-5.7.14 Dz1Fhx6dZIesqVf_vF7uU15DsJGa-q-IPZGojXguTey4otxPph1DuQUT3opOA5ygLp7Psv
+534-5.7.14 D5K7sukCSdTmljXGkru4cnZJH4jH1acO7g3eExx3aiM5CYLC6yEyv6s7ewzjIxTEHtbPAY
+534-5.7.14 cTzY2ci54pZI4lcHtFmB2VtQVv3_rQyvKYSLo_WO6uDd85WLSifvTDKinqK4eq2AmmFUfx
+534-5.7.14 Za0_UOs01YM3yWKotmfO296sP9Tc> Please log in via your web browser and
+534-5.7.14 then try again.
+534-5.7.14  Learn more at
+534 5.7.14  https://support.google.com/mail/answer/78754 kj3sm515799wjb.19 - gsmtp
+
+[20-11-2015 18:37:09,393] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.enviaMail() - ###########################################################
+[20-11-2015 18:44:54,246] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[20-11-2015 18:44:54,850] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 18:45:05,508] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[20-11-2015 18:45:06,098] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 18:45:06,364] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[20-11-2015 18:45:06,640] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[20-11-2015 18:45:14,327] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.enviaMail() - Enviando mensaje...
+[20-11-2015 18:45:16,008] [AWT-EventQueue-0] ERROR controlador.ConexionBBDD.enviaMail() - 534-5.7.14 <https://accounts.google.com/ContinueSignIn?sarp=1&scc=1&plt=AKgnsbtME
+534-5.7.14 ylrYaflIQgSzcEHm48amxOK7KJKSeHTCmBHCoSD97hkpr5rzS7QIhBeS9fpbC2P-wZQq9v
+534-5.7.14 S03ml0F3bK1lu3z0lQXU0bFu3gM3rUQdYgS0xKuaHIV0JkHTwoLuQq1p1zjU2kB9-OcUvs
+534-5.7.14 bNIPn8IwFH_rBX2H7-TF1BKnVK5VKxlN9U4Vs761euvHIQ8xk0MbojHtAikqGLxkdjIxgU
+534-5.7.14 1TTDL1GqlWmYbAgg8llb8Zu0o6dE> Please log in via your web browser and
+534-5.7.14 then try again.
+534-5.7.14  Learn more at
+534 5.7.14  https://support.google.com/mail/answer/78754 c13sm534485wmd.14 - gsmtp
+
+[20-11-2015 18:45:16,011] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.enviaMail() - ###########################################################
+[20-11-2015 18:56:17,940] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[20-11-2015 18:56:18,494] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 18:56:18,781] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[20-11-2015 18:56:19,056] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[20-11-2015 18:56:25,629] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.enviaMail() - Enviando mensaje...
+[20-11-2015 18:56:25,721] [AWT-EventQueue-0] ERROR controlador.ConexionBBDD.enviaMail() - Could not connect to SMTP host: localhost, port: 25
+[20-11-2015 18:56:25,722] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.enviaMail() - ###########################################################
+[20-11-2015 18:56:45,014] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[20-11-2015 18:56:45,559] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 18:56:45,819] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[20-11-2015 18:56:46,083] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[20-11-2015 18:56:51,766] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.enviaMail() - Enviando mensaje...
+[20-11-2015 18:56:51,838] [AWT-EventQueue-0] ERROR controlador.ConexionBBDD.enviaMail() - Could not connect to SMTP host: localhost, port: 25
+[20-11-2015 18:56:51,840] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.enviaMail() - ###########################################################
+[20-11-2015 18:57:10,331] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[20-11-2015 18:57:10,933] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 18:57:11,217] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[20-11-2015 18:57:11,483] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[20-11-2015 18:57:14,419] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.enviaMail() - Enviando mensaje...
+[20-11-2015 18:57:24,779] [AWT-EventQueue-0] ERROR controlador.ConexionBBDD.enviaMail() - Could not connect to SMTP host: smtp.gmail.com, port: 465, response: -1
+[20-11-2015 18:57:24,781] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.enviaMail() - ###########################################################
+[20-11-2015 18:57:58,980] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[20-11-2015 18:57:59,537] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 18:57:59,817] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[20-11-2015 18:58:00,094] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[20-11-2015 18:58:03,799] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.enviaMail() - Enviando mensaje...
+[20-11-2015 18:58:14,154] [AWT-EventQueue-0] ERROR controlador.ConexionBBDD.enviaMail() - Could not connect to SMTP host: smtp.gmail.com, port: 465, response: -1
+[20-11-2015 18:58:14,156] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.enviaMail() - ###########################################################
+[20-11-2015 18:58:34,782] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[20-11-2015 18:58:35,488] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 18:58:35,857] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[20-11-2015 18:58:36,136] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[20-11-2015 18:59:04,618] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.enviaMail() - Enviando mensaje...
+[20-11-2015 18:59:06,485] [AWT-EventQueue-0] ERROR controlador.ConexionBBDD.enviaMail() - 534-5.7.14 <https://accounts.google.com/ContinueSignIn?sarp=1&scc=1&plt=AKgnsbvT7
+534-5.7.14 8lxUZe06BvPWfo8GcMbvzEvuZDXBxIGWReUbOlbJvHbRr2sKUkcmUjtB1U67lhnC62FQ8W
+534-5.7.14 tSFrhYg00ILX9ETA-lZaO-xgQ7ub5R2JVzEdRQffqPrIPVxEbEL5jz2Cl5A7-urrmvUbU1
+534-5.7.14 FW_utpq5GQObFBD4943idNkpbzBT8WDI5qxSP9g3qJu8SaYb1yJ8zBQyAbGtCVt9gkm-TT
+534-5.7.14 4z5KRF5ZyPtGFCsUY5U-jTjMg5t4> Please log in via your web browser and
+534-5.7.14 then try again.
+534-5.7.14  Learn more at
+534 5.7.14  https://support.google.com/mail/answer/78754 z1sm566245wje.35 - gsmtp
+
+[20-11-2015 18:59:06,486] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.enviaMail() - ###########################################################
+[20-11-2015 19:04:56,686] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[20-11-2015 19:04:57,229] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[20-11-2015 19:04:57,547] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[20-11-2015 19:04:57,827] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[20-11-2015 19:05:13,295] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.enviaMail() - Enviando mensaje...
+[20-11-2015 19:05:16,266] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.enviaMail() - Mensaje enviado
+###########################################################
