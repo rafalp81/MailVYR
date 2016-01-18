@@ -104,7 +104,7 @@ public class Email {
 	        @Override
 	        protected PasswordAuthentication getPasswordAuthentication() {
 	            //return new PasswordAuthentication("G0340994@es.gasnatural.com","ago2015");
-	        	return new PasswordAuthentication("infoasesoriavyr@gmail.com","lohmmajooxcwdxgt");
+	        	return new PasswordAuthentication("infoasesoriavyr@gmail.com","password");
 	        }
 	    });
 		
