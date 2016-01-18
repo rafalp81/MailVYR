@@ -1,0 +1,33 @@
+[22-11-2015 13:57:53,769] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[22-11-2015 13:57:54,498] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-11-2015 13:57:54,754] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-11-2015 13:57:55,003] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-11-2015 13:58:30,676] [AWT-EventQueue-0] INFO  vista.Inicio.mouseClicked() - Botón guardar cliente pulsado
+[22-11-2015 13:58:30,679] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-11-2015 13:58:30,684] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-11-2015 13:58:30,687] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-11-2015 13:58:30,748] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-11-2015 13:58:30,752] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-11-2015 13:58:30,753] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-11-2015 13:58:42,587] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.enviaMail() - Enviando mensaje...
+[22-11-2015 13:58:44,459] [AWT-EventQueue-0] ERROR controlador.ConexionBBDD.enviaMail() - 534-5.7.14 <https://accounts.google.com/ContinueSignIn?sarp=1&scc=1&plt=AKgnsbuV6
+534-5.7.14 ZMzOQG-0quSHRSGHiPP5wyM7qrjNmasteN3-ynAPBvjD_GCh8h2Ta7EdFWxNOhwzi08S-4
+534-5.7.14 cmMa9ipK6FLiV2rDT-v4DVnViz5flYqW1BqmTBmEfuWlonSTyLxSkWN8u3sPbUgEsZBe2x
+534-5.7.14 xIaDbkMcFmQi54agHKjId3vUXckiiO1wzCrLGMtst_OTfTyJFQ-gW1xyXQ1-c9j7f-HUa5
+534-5.7.14 BxFGgkIu1JLoPqL57dkCWLIl1Kw8> Please log in via your web browser and
+534-5.7.14 then try again.
+534-5.7.14  Learn more at
+534 5.7.14  https://support.google.com/mail/answer/78754 pc2sm8569844wjb.11 - gsmtp
+
+[22-11-2015 13:58:44,460] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.enviaMail() - ###########################################################
+[22-11-2015 13:58:46,062] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.enviaMail() - Enviando mensaje...
+[22-11-2015 13:58:46,841] [AWT-EventQueue-0] ERROR controlador.ConexionBBDD.enviaMail() - 534-5.7.14 <https://accounts.google.com/ContinueSignIn?sarp=1&scc=1&plt=AKgnsbuK6
+534-5.7.14 7FWXpm3MrFGkFWAsv6-0hmA4cFtiPutgDIKWfRPUgYP6lDglQmf9SGdx8JYiLVtqTeonkl
+534-5.7.14 D6C_jyt8ALpYLbqX_sHbFjB7I7uHc28fprgbFq7bo8LIjKoE6vGrfhhSvxgklt26HmJDNw
+534-5.7.14 ENkdDou_u23tlPfe3tgq00OGHCIS2VmK-1yjyrgomnRH-xujhpwOkQ8M4Bu6Re07EeKQTQ
+534-5.7.14 7g6kE-yDUmvtxYqDkUINohuHrsWc> Please log in via your web browser and
+534-5.7.14 then try again.
+534-5.7.14  Learn more at
+534 5.7.14  https://support.google.com/mail/answer/78754 uq3sm8559183wjc.10 - gsmtp
+
+[22-11-2015 13:58:46,845] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.enviaMail() - ###########################################################

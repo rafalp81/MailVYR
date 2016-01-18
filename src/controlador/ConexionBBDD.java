@@ -10,12 +10,6 @@ public class ConexionBBDD {
 	
 	private final static Logger log = Logger.getLogger(ConexionBBDD.class);
 	
-	 /*static final String JDBC_DRIVER = "com.mysql.jdbc.Driver"; //"/MailVYR/lib/mysql-connector-java-5.1.37-bin.jar";  
-	 
-	 static final String DB_URL = "jdbc:mysql://localhost:3306/MailVYR"; 
-	 static final String USER = "rafa";
-	 static final String PASS = "rafa";*/
-	
 	private String driver = "org.apache.derby.jdbc.EmbeddedDriver";
 	private String dbName="vyrmail";
 	private String connectionURL = "jdbc:derby:" + dbName + ";create=true";
@@ -28,7 +22,6 @@ public class ConexionBBDD {
 		super();
 		
 		try {
-			//Class.forName(JDBC_DRIVER);
 			Class.forName(driver);
 		} catch (ClassNotFoundException e) {
 			// TODO Auto-generated catch block
@@ -37,7 +30,6 @@ public class ConexionBBDD {
 		
 	    try {
 	    	log.info("Conectando a la base de datos...");
-			//conn = DriverManager.getConnection(DB_URL,USER,PASS);
 	    	conn = DriverManager.getConnection(connectionURL);
 		    boolean existeTablaClientes = compruebaTablaClientes(); //Comprueba si existe la tabla.
 		    if(!existeTablaClientes){

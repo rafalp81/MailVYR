@@ -9,13 +9,13 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 
 import javax.swing.JButton;
+import javax.swing.JEditorPane;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 import javax.swing.JTabbedPane;
 import javax.swing.JTable;
-import javax.swing.JTextArea;
 import javax.swing.JTextField;
 import javax.swing.border.EmptyBorder;
 import javax.swing.table.DefaultTableModel;
@@ -42,7 +42,8 @@ public class Inicio extends JFrame {
 	private JTable tableClientes;
 	private DefaultTableModel modelo;
 	private JTextField tfasunto;
-	private JTextArea tamail;
+	//private JTextArea tamail;
+	private JEditorPane epmail;
 
 	/**
 	 * Launch the application.
@@ -119,19 +120,23 @@ public class Inicio extends JFrame {
 		
 		
 		
-		tamail = new JTextArea();
-		tamail.setBounds(29, 11, 750, 102);
-		JScrollPane scrollpane = new JScrollPane(tamail);
+		//tamail = new JTextArea();
+		epmail = new JEditorPane();
+		epmail.setContentType("text/html");
+		epmail.setBounds(29, 11, 750, 102);
+		JScrollPane scrollpane = new JScrollPane(epmail);
 		scrollpane.setBounds(29, 94, 750, 102);
 		panel_1.add(scrollpane);
+
 		
 		JButton btnEnviarMail = new JButton("Enviar Correo");
 		btnEnviarMail.addMouseListener(new MouseAdapter() {
 			@Override
 			public void mouseClicked(MouseEvent arg0) {
-				Email email = new Email(tfasunto.getText(), "Laura <laurarosalrubio@gmail.com>"
-						+ "", "Rafa<rafalp81@gmail.com>", "", "");
-				email.enviaMail(tamail.getText());
+				String listaEmails = getEmailContactos();
+				Email email = new Email(tfasunto.getText(), "Info Asesoria VYR <infoasesoriavyr@gmail.com>"
+						+ "", listaEmails, "", "");
+				email.enviaMail(epmail.getText());
 			}
 		});
 		btnEnviarMail.setBounds(276, 382, 118, 23);
@@ -281,6 +286,33 @@ public class Inicio extends JFrame {
 	        }
 	 
 	    }
+	
+	
+	private String getEmailContactos(){ //Devuelve una cadena de texto con todos los emails de los contactos separados por comas
+		 
+		String listaEmails = "";
+        try {
+        	ConexionBBDD conn = new ConexionBBDD();
+        	String sql="select emailcliente from clientes";
+    		ResultSet rs = conn.ejecutaSelect(sql);
+    		
+            while(rs.next()){
+                Object[] fila = new Object[1];//Creamos un Objeto con tantos parámetros como datos retorne cada fila 
+                                              // de la consulta
+                fila[0] = rs.getString("emailcliente");
+                listaEmails.concat(fila[0].toString()).concat(";");
+                
+            }
+            conn.liberaResultSet(rs);
+            conn.cierraConexion();
+ 
+        } catch (SQLException e) {
+            e.printStackTrace();
+          
+        }
+        return listaEmails;
+ 
+    }
 	 
 	    /**Métode per vaciar la un Jtable con modelo
 	     *

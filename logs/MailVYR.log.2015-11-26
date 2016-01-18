@@ -1,0 +1,20 @@
+[26-11-2015 16:59:30,948] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[26-11-2015 16:59:31,598] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[26-11-2015 16:59:32,097] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[26-11-2015 16:59:32,540] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[26-11-2015 17:01:30,709] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[26-11-2015 17:01:31,551] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[26-11-2015 17:01:31,878] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[26-11-2015 17:01:32,291] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[26-11-2015 17:27:25,595] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[26-11-2015 17:27:26,210] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[26-11-2015 17:27:26,509] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[26-11-2015 17:27:26,836] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[26-11-2015 17:27:44,085] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[26-11-2015 17:27:44,712] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[26-11-2015 17:27:44,984] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[26-11-2015 17:27:45,271] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[26-11-2015 17:47:07,003] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[26-11-2015 17:47:07,590] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[26-11-2015 17:47:07,862] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[26-11-2015 17:47:08,138] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
