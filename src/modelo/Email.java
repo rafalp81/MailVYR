@@ -1,6 +1,9 @@
 package modelo;
 
+import java.io.File;
+import java.io.FileNotFoundException;
 import java.util.Properties;
+import java.util.Scanner;
 
 import javax.mail.Authenticator;
 import javax.mail.Message;
@@ -10,6 +13,8 @@ import javax.mail.Session;
 import javax.mail.Transport;
 import javax.mail.internet.InternetAddress;
 import javax.mail.internet.MimeMessage;
+import javax.swing.JFrame;
+import javax.swing.JOptionPane;
 
 import org.apache.log4j.Logger;
 
@@ -18,23 +23,24 @@ import controlador.ConexionBBDD;
 public class Email {
 	
 	private String ASUNTO;
-	private String EMAIL_FROM;
+	private static String EMAIL_FROM;
 	private String EMAIL_PARA;
 	private String EMAIL_COPIA;
-	private String EMAIL_COPIA_OCULTA;
+	private static String EMAIL_COPIA_OCULTA;
+	
+	private static String user;
+	private static String password;
 	
 	private static Properties props;
 	private static Session session;
 	
 	private final static Logger log = Logger.getLogger(ConexionBBDD.class);
 	
-	public Email(String aSUNTO, String eMAIL_FROM, String eMAIL_PARA, String eMAIL_COPIA, String eMAIL_COPIA_OCULTA) {
+	public Email(String aSUNTO, String eMAIL_PARA, String eMAIL_COPIA) {
 		super();
 		ASUNTO = aSUNTO;
-		EMAIL_FROM = eMAIL_FROM;
 		EMAIL_PARA = eMAIL_PARA;
 		EMAIL_COPIA = eMAIL_COPIA;
-		EMAIL_COPIA_OCULTA = eMAIL_COPIA_OCULTA;
 	}
 	
 	public Email() {
@@ -84,15 +90,9 @@ public class Email {
 	
 	public void enviaMail(String mensaje){
 		props = new Properties();
-	   /* props.put("mail.smtp.port","80");
-	    props.put("mail.smtp.host","gnfproxy2010.intranet.gasnatural.com");
-	    props.put("java.net.username","90025807");
-	    props.put("java.net.password","Mufore22");
-	    props.put("mail.smtp.starttls.enable", "true");
-	    props.put("mail.smtp.port", 587);
-	    props.put("mail.smtp.host", "m.outlook.com");
-	    props.put("mail.smtp.auth", "true");
-	    props.put("mail.smtp.connectiontimeout", "20000");*/
+		
+		cargaConfiguracion();
+	 
 		
 		props.put("mail.smtp.auth", "true");
 		props.put("mail.smtp.starttls.enable", "true");
@@ -103,13 +103,12 @@ public class Email {
 	    session = Session.getInstance(props, new Authenticator() {
 	        @Override
 	        protected PasswordAuthentication getPasswordAuthentication() {
-	            //return new PasswordAuthentication("G0340994@es.gasnatural.com","ago2015");
-	        	return new PasswordAuthentication("infoasesoriavyr@gmail.com","password");
+	        	return new PasswordAuthentication(user,password);
 	        }
 	    });
 		
 		
-	    
+	    JFrame frame = new JFrame("");
 	    try {
 			Message message = new MimeMessage(session);
 			message.setFrom(new InternetAddress(EMAIL_FROM));
@@ -131,13 +130,71 @@ public class Email {
 			
 			log.info("Enviando mensaje...");
 			Transport.send(message);
+			
+			
+			JOptionPane.showMessageDialog(frame,
+				    "Mensaje enviado....",
+				    "Info Asesoría VYR",
+				    JOptionPane.INFORMATION_MESSAGE);
+			
+			
+			
 			log.info("Mensaje enviado\n###########################################################");
 
 		} catch (MessagingException e) {
+			JOptionPane.showMessageDialog(frame,
+				    "Mensaje no enviado....\n" + e.getMessage(),
+				    "Info Asesoría VYR",
+				    JOptionPane.ERROR_MESSAGE);
 			log.error(e.getMessage());
 			log.info("###########################################################");
 		}
 
+	}
+	
+	
+	private static void cargaConfiguracion() {
+		 File file = new File("config.txt");
+		 
+	        try {
+	 
+	            Scanner scanner = new Scanner(file);
+	 
+	            while (scanner.hasNextLine()) {
+	                String word = scanner.next();
+	                switch (word) {
+					case "USUARIO":
+						user = scanner.nextLine().trim();
+						break;
+					case "PASSWORD":
+						password = scanner.nextLine().trim();
+						break;
+					/*case "ASUNTO":
+						ASUNTO = scanner.nextLine().trim();
+						break;
+					*/	
+					case "EMAIL_FROM":
+						EMAIL_FROM = scanner.nextLine().trim();
+						break;
+					/*case "EMAIL_PARA":
+						EMAIL_PARA = scanner.nextLine().trim();
+						break;
+					case "EMAIL_COPIA":
+						EMAIL_COPIA = scanner.nextLine().trim();
+						break;
+					*/	
+					case "EMAIL_COPIA_OCULTA":
+						EMAIL_COPIA_OCULTA = scanner.nextLine().trim();
+						break;
+
+					default:
+						break;
+					}
+	            }
+	            scanner.close();
+	        } catch (FileNotFoundException e) {
+	            e.printStackTrace();
+	        }
 	}
 	
 

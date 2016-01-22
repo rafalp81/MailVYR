@@ -7,7 +7,6 @@ import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
 import java.sql.ResultSet;
 import java.sql.SQLException;
-
 import javax.swing.JButton;
 import javax.swing.JEditorPane;
 import javax.swing.JFrame;
@@ -44,6 +43,7 @@ public class Inicio extends JFrame {
 	private JTextField tfasunto;
 	//private JTextArea tamail;
 	private JEditorPane epmail;
+	
 
 	/**
 	 * Launch the application.
@@ -134,9 +134,9 @@ public class Inicio extends JFrame {
 			@Override
 			public void mouseClicked(MouseEvent arg0) {
 				String listaEmails = getEmailContactos();
-				Email email = new Email(tfasunto.getText(), "Info Asesoria VYR <infoasesoriavyr@gmail.com>"
-						+ "", listaEmails, "", "");
+				Email email = new Email(tfasunto.getText(),listaEmails, "");
 				email.enviaMail(epmail.getText());
+				limpiaMensaje();
 			}
 		});
 		btnEnviarMail.setBounds(276, 382, 118, 23);
@@ -297,10 +297,7 @@ public class Inicio extends JFrame {
     		ResultSet rs = conn.ejecutaSelect(sql);
     		
             while(rs.next()){
-                Object[] fila = new Object[1];//Creamos un Objeto con tantos parámetros como datos retorne cada fila 
-                                              // de la consulta
-                fila[0] = rs.getString("emailcliente");
-                listaEmails.concat(fila[0].toString()).concat(";");
+            	listaEmails = listaEmails.concat(rs.getString("emailcliente")).concat(",");
                 
             }
             conn.liberaResultSet(rs);
@@ -330,4 +327,11 @@ public class Inicio extends JFrame {
 			tftlfmovilcliente.setText("");
 			tfemailcliente.setText("");
 	    }
+	    
+	    private void limpiaMensaje(){
+	    	tfasunto.setText("");
+			epmail.setText("");
+	    }
+	    
+	    
 }

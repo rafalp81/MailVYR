@@ -35,6 +35,7 @@ public class ConexionBBDD {
 		    if(!existeTablaClientes){
 		    	creaTablaClientes();
 		    }
+		    //vaciaTablaClientes(); //Usar sólo para vaciar la tabla clientes durante el desarrollo
 		} catch (SQLException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
@@ -165,5 +166,20 @@ public class ConexionBBDD {
 			log.error(e.getMessage());
 			log.error(e.getSQLState());
 		}					 
+	 }
+	 
+	 private void vaciaTablaClientes(){ //Sólo utilizar durante las pruebas para vaciar la tabla
+		 String sql = "DELETE FROM clientes";// ENGINE=InnoDB AUTO_INCREMENT=16 DEFAULT CHARSET=utf8;";
+	 
+	 log.info(sql);
+	 try {
+		log.info("Vaciando tabla clientes");
+		stmt = conn.createStatement();
+		stmt.execute(sql);
+	} catch (SQLException e) {
+		log.error("Error al vaciar la tabla clientes");
+		log.error(e.getMessage());
+		log.error(e.getSQLState());
+	}
 	 }
 }

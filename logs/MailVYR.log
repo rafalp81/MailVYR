@@ -1,56 +1,336 @@
-[15-01-2016 13:55:15,124] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
-[15-01-2016 13:55:16,338] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
-[15-01-2016 13:55:17,015] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
-[15-01-2016 13:55:17,412] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
-[15-01-2016 13:55:31,158] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.enviaMail() - Enviando mensaje...
-[15-01-2016 13:55:33,206] [AWT-EventQueue-0] ERROR controlador.ConexionBBDD.enviaMail() - 534-5.7.14 <https://accounts.google.com/ContinueSignIn?sarp=1&scc=1&plt=AKgnsbtIi
-534-5.7.14 E_DJxXTgld_jSP4_01tsCmfCzye-9BlSFkugSno86sI4gNrhlNRdLxd5oZSHESE5cczY3P
-534-5.7.14 EiJVLU84ZKl6rRCvJFzKHJq-zlt5GB_msC9syz903reP6Q8lkA4Eln1Gtd4UXpMRlFomH7
-534-5.7.14 G84dFOQ5xFMdsooUGOje5eTBIlADSEfIxn36EMDNfrYYHqKnkkwJxMu-EfLfisZMrWNWxM
-534-5.7.14 ShlGUnayt17v5o2iauNM6QLXqJR8> Please log in via your web browser and
-534-5.7.14 then try again.
-534-5.7.14  Learn more at
-534 5.7.14  https://support.google.com/mail/answer/78754 i63sm2428461wmf.24 - gsmtp
+[22-01-2016 17:19:17,568] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[22-01-2016 17:19:18,446] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 17:19:18,754] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 17:19:19,126] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 17:20:07,189] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[22-01-2016 17:20:08,091] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 17:20:08,443] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 17:20:08,751] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 17:20:17,324] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 17:20:17,328] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 17:20:17,330] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 17:20:29,683] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 17:20:29,689] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 17:20:29,695] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 17:20:29,788] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 17:20:29,794] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 17:20:29,797] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 17:22:08,731] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[22-01-2016 17:22:09,458] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 17:22:09,807] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 17:22:10,166] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 17:22:50,425] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 17:22:50,443] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 17:22:50,448] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 17:24:37,753] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 17:24:37,772] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 17:24:37,776] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 17:27:29,266] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[22-01-2016 17:27:29,441] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[22-01-2016 17:27:30,306] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 17:27:30,724] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 17:27:30,824] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 17:27:31,159] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 17:27:54,005] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 17:27:54,010] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 17:27:54,014] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 17:27:54,068] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 17:27:54,070] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 17:27:54,071] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 17:28:09,986] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 17:28:09,992] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 17:28:09,994] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 17:28:24,416] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[22-01-2016 17:28:25,080] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 17:28:25,353] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 17:28:25,631] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 17:28:30,753] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 17:28:30,757] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 17:28:30,759] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 17:29:02,329] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[22-01-2016 17:29:02,915] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 17:29:03,179] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 17:29:03,461] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 17:29:06,921] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[22-01-2016 17:29:07,589] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 17:29:07,914] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 17:29:08,258] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 17:29:28,464] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 17:29:28,479] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 17:29:28,484] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 17:32:14,130] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[22-01-2016 17:32:14,698] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 17:32:14,982] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 17:32:15,254] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 17:32:21,486] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 17:32:21,490] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 17:32:21,492] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 17:33:20,307] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[22-01-2016 17:33:20,924] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 17:33:26,423] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[22-01-2016 17:33:27,058] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 17:33:27,344] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 17:33:27,632] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 17:33:31,784] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 17:33:31,792] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 17:33:31,796] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 17:33:31,834] [AWT-EventQueue-0] INFO  vista.Inicio.mouseClicked() - listaEmails:
+[22-01-2016 17:33:37,241] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[22-01-2016 17:33:38,119] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 17:33:38,434] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 17:33:38,822] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 17:33:56,850] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[22-01-2016 17:33:57,553] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 17:33:57,871] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 17:33:58,211] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 17:34:11,266] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 17:34:11,278] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 17:34:11,282] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 17:36:13,282] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[22-01-2016 17:36:14,015] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 17:36:14,392] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 17:36:14,696] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 17:36:16,704] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 17:36:16,708] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 17:36:16,710] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 17:36:16,735] [AWT-EventQueue-0] INFO  vista.Inicio.mouseClicked() - listaEmails:rafalp81@gmail.com;javi@gmail.com;pepe@gmail.com;luis@gmail.com;laurarosalrubio@gmail.com;
+[22-01-2016 17:36:16,759] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 17:36:16,761] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 17:36:16,762] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 17:36:16,763] [AWT-EventQueue-0] INFO  vista.Inicio.mouseClicked() - listaEmails:rafalp81@gmail.com;javi@gmail.com;pepe@gmail.com;luis@gmail.com;laurarosalrubio@gmail.com;
+[22-01-2016 17:36:33,311] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[22-01-2016 17:36:33,896] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 17:36:34,184] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 17:36:34,467] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 17:36:37,363] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 17:36:37,367] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 17:36:37,376] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 17:36:37,410] [AWT-EventQueue-0] INFO  vista.Inicio.mouseClicked() - listaEmails:rafalp81@gmail.com;javi@gmail.com;pepe@gmail.com;luis@gmail.com;laurarosalrubio@gmail.com;
+[22-01-2016 17:37:05,975] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 17:37:05,980] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 17:37:05,982] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 17:37:05,984] [AWT-EventQueue-0] INFO  vista.Inicio.mouseClicked() - listaEmails:rafalp81@gmail.com;javi@gmail.com;pepe@gmail.com;luis@gmail.com;laurarosalrubio@gmail.com;
+[22-01-2016 17:37:57,406] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[22-01-2016 17:37:58,009] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 17:37:58,297] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 17:37:58,589] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 17:47:27,648] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[22-01-2016 17:47:28,222] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 17:47:28,485] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 17:47:28,757] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 17:47:28,757] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.vaciaTablaClientes() - DELETE FROM TABLA CLIENTES WHERE idccliente LIKE '%'
+[22-01-2016 17:47:28,757] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.vaciaTablaClientes() - Vaciando tabla clientes
+[22-01-2016 17:47:28,767] [AWT-EventQueue-0] ERROR controlador.ConexionBBDD.vaciaTablaClientes() - Error al vaciar la tabla clientes
+[22-01-2016 17:47:28,768] [AWT-EventQueue-0] ERROR controlador.ConexionBBDD.vaciaTablaClientes() - Table/View 'TABLA' does not exist.
+[22-01-2016 17:47:28,768] [AWT-EventQueue-0] ERROR controlador.ConexionBBDD.vaciaTablaClientes() - 42X05
+[22-01-2016 17:47:54,015] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[22-01-2016 17:47:54,615] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 17:47:58,463] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[22-01-2016 17:47:59,055] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 17:47:59,313] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 17:47:59,580] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 17:47:59,580] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.vaciaTablaClientes() - DELETE FROM clientes WHERE idccliente LIKE '%'
+[22-01-2016 17:47:59,580] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.vaciaTablaClientes() - Vaciando tabla clientes
+[22-01-2016 17:47:59,591] [AWT-EventQueue-0] ERROR controlador.ConexionBBDD.vaciaTablaClientes() - Error al vaciar la tabla clientes
+[22-01-2016 17:47:59,592] [AWT-EventQueue-0] ERROR controlador.ConexionBBDD.vaciaTablaClientes() - Column 'IDCCLIENTE' is either not in any table in the FROM list or appears within a join specification and is outside the scope of the join specification or appears in a HAVING clause and is not in the GROUP BY list. If this is a CREATE or ALTER TABLE  statement then 'IDCCLIENTE' is not a column in the target table.
+[22-01-2016 17:47:59,593] [AWT-EventQueue-0] ERROR controlador.ConexionBBDD.vaciaTablaClientes() - 42X04
+[22-01-2016 17:48:36,390] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[22-01-2016 17:48:36,960] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 17:48:37,216] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 17:48:37,493] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 17:48:37,494] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.vaciaTablaClientes() - DELETE FROM clientes WHERE idcliente LIKE '%'
+[22-01-2016 17:48:37,494] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.vaciaTablaClientes() - Vaciando tabla clientes
+[22-01-2016 17:48:37,505] [AWT-EventQueue-0] ERROR controlador.ConexionBBDD.vaciaTablaClientes() - Error al vaciar la tabla clientes
+[22-01-2016 17:48:37,506] [AWT-EventQueue-0] ERROR controlador.ConexionBBDD.vaciaTablaClientes() - No authorized routine named 'LIKE' of type 'FUNCTION' having compatible arguments was found.
+[22-01-2016 17:48:37,507] [AWT-EventQueue-0] ERROR controlador.ConexionBBDD.vaciaTablaClientes() - 42884
+[22-01-2016 17:49:06,846] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[22-01-2016 17:49:07,430] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 17:49:07,716] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 17:49:07,990] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 17:49:07,991] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.vaciaTablaClientes() - DELETE FROM clientes
+[22-01-2016 17:49:07,991] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.vaciaTablaClientes() - Vaciando tabla clientes
+[22-01-2016 17:49:25,967] [AWT-EventQueue-0] INFO  vista.Inicio.mouseClicked() - Botón guardar cliente pulsado
+[22-01-2016 17:49:25,970] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 17:49:25,974] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 17:49:25,976] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 17:49:25,977] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.vaciaTablaClientes() - DELETE FROM clientes
+[22-01-2016 17:49:25,978] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.vaciaTablaClientes() - Vaciando tabla clientes
+[22-01-2016 17:49:26,041] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 17:49:26,045] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 17:49:26,046] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 17:49:26,046] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.vaciaTablaClientes() - DELETE FROM clientes
+[22-01-2016 17:49:26,049] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.vaciaTablaClientes() - Vaciando tabla clientes
+[22-01-2016 17:50:18,841] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[22-01-2016 17:50:19,429] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 17:50:19,755] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 17:50:20,036] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 17:50:32,587] [AWT-EventQueue-0] INFO  vista.Inicio.mouseClicked() - Botón guardar cliente pulsado
+[22-01-2016 17:50:32,589] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 17:50:32,592] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 17:50:32,593] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 17:50:32,648] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 17:50:32,651] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 17:50:32,652] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 17:51:34,044] [AWT-EventQueue-0] INFO  vista.Inicio.mouseClicked() - Botón guardar cliente pulsado
+[22-01-2016 17:51:34,046] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 17:51:34,052] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 17:51:34,054] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 17:51:34,077] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 17:51:34,080] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 17:51:34,081] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 17:51:54,502] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 17:51:54,506] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 17:51:54,511] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 17:51:54,536] [AWT-EventQueue-0] INFO  vista.Inicio.mouseClicked() - listaEmails:rafalp81@gmail.com;laurarosalrubio@gmail.com;
+[22-01-2016 17:51:54,571] [AWT-EventQueue-0] ERROR controlador.ConexionBBDD.enviaMail() - Illegal semicolon, not in group
+[22-01-2016 17:51:54,572] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.enviaMail() - ###########################################################
+[22-01-2016 17:54:04,404] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[22-01-2016 17:54:04,999] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 17:54:05,295] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 17:54:05,571] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 17:54:24,004] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 17:54:24,008] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 17:54:24,013] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 17:54:24,042] [AWT-EventQueue-0] INFO  vista.Inicio.mouseClicked() - listaEmails:rafalp81@gmail.com,laurarosalrubio@gmail.com,
+[22-01-2016 17:54:24,090] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.enviaMail() - Enviando mensaje...
+[22-01-2016 17:54:26,184] [AWT-EventQueue-0] ERROR controlador.ConexionBBDD.enviaMail() - 534-5.7.9 Application-specific password required. Learn more at
+534 5.7.9  https://support.google.com/accounts/answer/185833 ko2sm6741372wjc.9 - gsmtp
 
-[15-01-2016 13:55:33,207] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.enviaMail() - ###########################################################
-[15-01-2016 14:07:03,924] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
-[15-01-2016 14:07:04,614] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
-[15-01-2016 14:07:08,654] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
-[15-01-2016 14:07:09,258] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
-[15-01-2016 14:07:09,582] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
-[15-01-2016 14:07:09,873] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
-[15-01-2016 14:07:20,634] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.enviaMail() - Enviando mensaje...
-[15-01-2016 14:07:23,536] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.enviaMail() - Mensaje enviado
+[22-01-2016 17:54:26,185] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.enviaMail() - ###########################################################
+[22-01-2016 17:56:09,630] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[22-01-2016 17:56:10,210] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 17:56:10,515] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 17:56:10,788] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 17:56:13,761] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 17:56:13,766] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 17:56:13,770] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 17:56:13,804] [AWT-EventQueue-0] INFO  vista.Inicio.mouseClicked() - listaEmails:rafalp81@gmail.com,laurarosalrubio@gmail.com,
+[22-01-2016 17:56:13,849] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.enviaMail() - Enviando mensaje...
+[22-01-2016 17:56:13,909] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.cargaConfiguracion() - Usuairo: infoasesoriavyr@gmail.com
+[22-01-2016 17:56:13,910] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.cargaConfiguracion() - Password: PJc 2jA7 jkN=s=`VAh3
+[22-01-2016 17:56:15,811] [AWT-EventQueue-0] ERROR controlador.ConexionBBDD.enviaMail() - 534-5.7.9 Application-specific password required. Learn more at
+534 5.7.9  https://support.google.com/accounts/answer/185833 o7sm6682730wjf.45 - gsmtp
+
+[22-01-2016 17:56:15,812] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.enviaMail() - ###########################################################
+[22-01-2016 18:01:50,509] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[22-01-2016 18:01:51,103] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 18:01:51,395] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 18:01:51,672] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 18:02:14,232] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 18:02:14,236] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 18:02:14,239] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 18:02:14,276] [AWT-EventQueue-0] INFO  vista.Inicio.mouseClicked() - listaEmails:rafalp81@gmail.com,laurarosalrubio@gmail.com,
+[22-01-2016 18:02:14,319] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.enviaMail() - Enviando mensaje...
+[22-01-2016 18:02:14,475] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.cargaConfiguracion() - Usuairo: infoasesoriavyr@gmail.com
+[22-01-2016 18:02:14,481] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.cargaConfiguracion() - Password: hzlnvfuskbuytdwg
+[22-01-2016 18:02:16,853] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.enviaMail() - Mensaje enviado
 ###########################################################
-[15-01-2016 14:20:11,144] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
-[15-01-2016 14:20:11,799] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
-[15-01-2016 14:20:12,136] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
-[15-01-2016 14:20:12,437] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
-[15-01-2016 14:22:38,303] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
-[15-01-2016 14:22:38,920] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
-[15-01-2016 14:22:39,255] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
-[15-01-2016 14:22:39,554] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
-[15-01-2016 14:24:05,733] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
-[15-01-2016 14:24:06,341] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
-[15-01-2016 14:24:06,671] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
-[15-01-2016 14:24:06,964] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
-[15-01-2016 14:25:28,000] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
-[15-01-2016 14:25:28,628] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
-[15-01-2016 14:25:28,930] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
-[15-01-2016 14:25:29,218] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
-[15-01-2016 14:26:46,750] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
-[15-01-2016 14:26:47,371] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
-[15-01-2016 14:27:31,804] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
-[15-01-2016 14:27:32,443] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
-[15-01-2016 14:27:32,770] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
-[15-01-2016 14:27:33,060] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
-[15-01-2016 14:28:22,447] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
-[15-01-2016 14:28:23,060] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
-[15-01-2016 14:29:04,346] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
-[15-01-2016 14:29:05,103] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
-[15-01-2016 14:29:05,425] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
-[15-01-2016 14:29:05,774] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
-[15-01-2016 14:30:30,629] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
-[15-01-2016 14:30:31,507] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
-[15-01-2016 14:30:31,845] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
-[15-01-2016 14:30:32,141] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 18:35:14,418] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[22-01-2016 18:35:15,014] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 18:35:15,331] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 18:35:15,620] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 18:35:23,009] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 18:35:23,013] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 18:35:23,015] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 18:35:23,038] [AWT-EventQueue-0] INFO  vista.Inicio.mouseClicked() - listaEmails:rafalp81@gmail.com,laurarosalrubio@gmail.com,
+[22-01-2016 18:37:01,424] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[22-01-2016 18:37:02,170] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 18:37:20,689] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[22-01-2016 18:37:21,364] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 18:37:21,709] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 18:37:22,031] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 18:37:41,709] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 18:37:41,728] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 18:37:41,733] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 18:37:55,864] [AWT-EventQueue-0] INFO  vista.Inicio.mouseClicked() - listaEmails:rafalp81@gmail.com,laurarosalrubio@gmail.com,
+[22-01-2016 18:40:39,809] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[22-01-2016 18:40:40,412] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 18:40:40,700] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 18:40:40,975] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 18:40:44,517] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[22-01-2016 18:40:45,162] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 18:40:45,525] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 18:40:45,867] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 18:40:58,639] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 18:40:58,646] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 18:40:58,651] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 18:40:58,770] [AWT-EventQueue-0] INFO  vista.Inicio.mouseClicked() - listaEmails:rafalp81@gmail.com,laurarosalrubio@gmail.com,
+[22-01-2016 18:41:22,976] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[22-01-2016 18:41:23,706] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 18:41:24,061] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 18:41:24,390] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 18:41:31,400] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 18:41:31,404] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 18:41:31,407] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 18:41:31,531] [AWT-EventQueue-0] INFO  vista.Inicio.mouseClicked() - listaEmails:rafalp81@gmail.com,laurarosalrubio@gmail.com,
+[22-01-2016 18:41:58,663] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[22-01-2016 18:41:59,343] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 18:41:59,691] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 18:42:00,023] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 18:42:06,236] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 18:42:06,241] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 18:42:06,243] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 18:42:06,319] [AWT-EventQueue-0] INFO  vista.Inicio.mouseClicked() - listaEmails:rafalp81@gmail.com,laurarosalrubio@gmail.com,
+[22-01-2016 18:43:40,652] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[22-01-2016 18:43:41,274] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 18:43:41,587] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 18:43:41,900] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 18:43:56,324] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 18:43:56,329] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 18:43:56,334] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 18:43:56,377] [AWT-EventQueue-0] INFO  vista.Inicio.mouseClicked() - listaEmails:rafalp81@gmail.com,laurarosalrubio@gmail.com,
+[22-01-2016 18:43:56,387] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.cargaConfiguracion() - Usuairo: infoasesoriavyr@gmail.com
+[22-01-2016 18:43:56,391] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.cargaConfiguracion() - Password: hzlnvfuskbuytdwg
+[22-01-2016 18:43:56,434] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.enviaMail() - Enviando mensaje...
+[22-01-2016 18:43:59,444] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.enviaMail() - Mensaje enviado
+###########################################################
+[22-01-2016 18:55:46,592] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[22-01-2016 18:55:47,312] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 18:55:47,647] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 18:55:47,953] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 18:55:53,275] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 18:55:53,279] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 18:55:53,281] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 18:55:53,360] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.enviaMail() - Enviando mensaje...
+[22-01-2016 18:56:01,266] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.enviaMail() - Mensaje enviado
+###########################################################
+[22-01-2016 19:00:02,447] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[22-01-2016 19:00:03,159] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 19:00:07,999] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[22-01-2016 19:00:08,606] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 19:00:08,921] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 19:00:09,197] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 19:00:22,135] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 19:00:22,141] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 19:00:22,146] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 19:00:22,217] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.enviaMail() - Enviando mensaje...
+[22-01-2016 19:00:31,257] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.enviaMail() - Mensaje enviado
+###########################################################
+[22-01-2016 19:00:52,039] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[22-01-2016 19:00:52,620] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 19:00:52,916] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 19:00:53,196] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 19:00:57,320] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 19:00:57,324] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 19:00:57,326] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 19:00:57,410] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.enviaMail() - Enviando mensaje...
+[22-01-2016 19:01:07,813] [AWT-EventQueue-0] ERROR controlador.ConexionBBDD.enviaMail() - 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/answer/14257 193sm3940997wmg.16 - gsmtp
+
+[22-01-2016 19:01:07,814] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.enviaMail() - ###########################################################
+[22-01-2016 19:01:25,705] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 19:01:25,710] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 19:01:25,712] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 19:01:25,730] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.enviaMail() - Enviando mensaje...
+[22-01-2016 19:01:50,690] [AWT-EventQueue-0] ERROR controlador.ConexionBBDD.enviaMail() - Could not connect to SMTP host: smtp.gmail.com, port: 587
+[22-01-2016 19:01:50,691] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.enviaMail() - ###########################################################
+[22-01-2016 19:02:39,188] [main] INFO  vista.Inicio.main() - Fichero de configuración de log4j cargado.
+[22-01-2016 19:02:39,978] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 19:02:40,354] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 19:02:40,704] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 19:02:52,574] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.<init>() - Conectando a la base de datos...
+[22-01-2016 19:02:52,579] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - Comprobando si existe la tabla clientes
+[22-01-2016 19:02:52,584] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.compruebaTablaClientes() - La tabla clientes existe
+[22-01-2016 19:02:52,675] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.enviaMail() - Enviando mensaje...
+[22-01-2016 19:02:57,938] [AWT-EventQueue-0] INFO  controlador.ConexionBBDD.enviaMail() - Mensaje enviado
+###########################################################
